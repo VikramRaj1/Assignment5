@@ -1,0 +1,50 @@
+body{
+    margin: 40px;
+    padding: 60px;
+    background-color: dimgray;
+}
+
+.navbar{
+    overflow: hidden;
+    background-color: cadetblue;
+    position: fixed;
+    top: 0px;
+    width: 50%;
+    height: 10%;
+    background-position-x: 2rem;
+}
+
+ .navbar a{
+     float: left;
+     display: block;
+     color: aqua;
+    text-align:  center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    
+ }
+
+ .navbar li{
+     list-style: none;
+    
+ }
+
+ div.img {
+    margin: 60px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 200px;
+  }
+
+div.img img{
+    width: 100%;
+    height: auto;
+  }
+
+ .card {
+    background-color:rgb(38, 163, 86);
+    padding: 20px;
+    margin-top: 20px;
+ }
+ 
